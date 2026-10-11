@@ -87,6 +87,6 @@ It helps analyze:
 
 ## 👤 Author
 
-**Rushikesh Sultane**
+**Sahil Dange**
 
-GitHub: https://github.com/rushi-7900
+GitHub: https://github.com/Sahil2321
